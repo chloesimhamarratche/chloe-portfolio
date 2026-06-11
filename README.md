@@ -1,66 +1,65 @@
-# Chloe Simha Marratche Portfolio
+# Chloe Simha Marratche — Portfolio
 
-## How to open
-1. Open this folder in VS Code.
-2. Install the extension **Live Server**.
-3. Right click on `index.html`.
-4. Click **Open with Live Server**.
+Personal web portfolio showcasing my profile, technical stack, development process and selected web projects.
 
-## Where to put photos
-Put your images here:
+## About
 
-```txt
-assets/images/
-```
+I am a Full Stack Web Developer focused on building modern, responsive and user-centered web applications, SaaS platforms and business websites.
 
-Use clear names like:
+This portfolio presents my skills, my development process and the projects I built during my Full Stack & AI training and personal work.
 
-```txt
-profile.jpg
-shutafy.jpg
-simha-concept.jpg
-swissenergie.jpg
-mondemenageur.jpg
-eliyam.jpg
-kolam.jpg
-```
+## Tech Stack
 
-Then update the image path inside `index.html`, for example:
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- PostgreSQL
+- Git & GitHub
+- VS Code
+- AI Tools
 
-```html
-<img src="assets/images/profile.jpg" alt="Chloe profile picture" />
-```
+## Projects
 
-## Where to put videos
-Put videos here:
+### Shutafy
+A SaaS-style roommate matching app concept designed to help people find compatible roommates based on lifestyle, budget, city, habits and personal preferences.
 
-```txt
-assets/videos/
-```
+Live site: https://shutafy.vercel.app  
+GitHub: https://github.com/chloesimhamarratche/shutafy-app
 
-Example:
+### Simha Concept
+A full-stack SaaS-style website built to present digital services, pricing, process pages and client request flow.
 
-```html
-<video src="assets/videos/demo.mp4" controls></video>
-```
+Live site: https://www.simhaconcept.com  
+GitHub: https://github.com/chloesimhamarratche/simha-concept-website
 
-## Where to put your CV
-Put your PDF here:
+### Swiss Energie
+A full-stack service platform built with a clear user journey, scalable page structure and backend-ready contact flow.
 
-```txt
-assets/docs/chloe-resume.pdf
-```
+Live site: https://swissenergie.pro  
+GitHub: https://github.com/chloesimhamarratche/swissenergie-website
 
-The Contact section already links to:
+### Mon Déménageur Local
+A responsive service platform built to present moving services, guide users clearly and support a structured quote request flow.
 
-```txt
-assets/docs/chloe-resume.pdf
-```
+Live site: https://www.mondéménageurlocal.com  
+GitHub: https://github.com/chloesimhamarratche/mon-demenageur-local-website
 
-## Files
-- `index.html` = website content and structure
-- `style.css` = design
-- `script.js` = menu and animations
-- `assets/images` = screenshots and photos
-- `assets/videos` = videos
-- `assets/docs` = CV/resume
+### Eliyam
+A responsive digital platform built to present a fashion product, structure the user journey and support a small-budget growth strategy.
+
+GitHub: https://github.com/chloesimhamarratche/eliyam-website
+
+### Kolam Music
+A responsive music platform built to present artists, events and booking services through a clear digital experience.
+
+Live site: https://kolammusic.com  
+GitHub: https://github.com/chloesimhamarratche/kolammusic-website
+
+## Contact
+
+Email: kloeworkplace@gmail.com  
+GitHub: https://github.com/chloesimhamarratche  
+LinkedIn: Add LinkedIn link here
