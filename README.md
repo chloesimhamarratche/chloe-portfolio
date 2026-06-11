@@ -1,6 +1,6 @@
-# Chloe Simha Marratche — Portfolio
+# Chloe Simha Marratche — Web Portfolio
 
-🌐 Live Portfolio: https://chloesimhamarratche-portfolio.vercel.app
+🌐 Web Portfolio: https://chloesimhamarratche-portfolio.vercel.app
 
 Personal web portfolio showcasing my profile, technical stack, development process and selected web projects.
 
